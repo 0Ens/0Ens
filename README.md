@@ -2,7 +2,7 @@
 
 Software Engineering student at Near East University, looking for a place to do my mandatory internship. I lean towards backend and also really enjoy building mobile apps with Expo.
 
-[Personal page](https://0ens.github.io/development-04-html-css-temelleri/)
+[Personal page](https://0ens.github.io/development-04-html-css-temelleri/) · [LinkedIn](https://www.linkedin.com/in/enes-erul-082b4028a/)
 
 ## Projects
 
